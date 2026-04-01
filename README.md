@@ -34,7 +34,7 @@ A sleek and responsive weather web application built with **React + Vite + Mater
 Follow these steps to run the project locally 👇  
   
 # 1️⃣ Clone the repository  
-git clone https://github.com/Anix12/Weather-App.git  
+git clone https://github.com/Sanketshinde29/Weather-App.git  
   
 # 2️⃣ Navigate to the project folder  
 cd Weather_App  
